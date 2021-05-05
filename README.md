@@ -1,6 +1,6 @@
 Face_Recognition
 ===================================================
-- First Version (Simple Face Detection & Recognition)
+- Version1 (Simple Face Detection & Recognition)
 
 개발환경 구축
 ---------------------------------------------------
