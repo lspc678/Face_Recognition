@@ -1,8 +1,8 @@
 # Face_Recognition
-==================================================
+
 - First Version (Simple Face Detection & Recognition)
 
-# 개발환경 구축
+개발환경 구축
 ---------------------------------------------------
 - python3 version(Anaconda3 추천) 설치 필수
 - 필요 패키지 설치
@@ -12,7 +12,7 @@
   - dlib 라이브러리 설치 전에 Window의 경우 CMake 설치시 (https://ndb796.tistory.com/365) 참고
 
   
-# Version1. 내용
+Version1. 내용
 ---------------------------------------------------
 - knowns 폴더에 가족 구성원의 사진 파일을 저장함
 - who 폴더에 누구인지 확인할 사진 파일을 저장 (iuiu.jpeg, Song.png)
